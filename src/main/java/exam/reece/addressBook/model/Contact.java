@@ -9,8 +9,6 @@ import java.util.UUID;
 
 import javax.persistence.*;
 
-import org.hibernate.annotations.GenericGenerator;
-
 @Entity
 public class Contact {
 

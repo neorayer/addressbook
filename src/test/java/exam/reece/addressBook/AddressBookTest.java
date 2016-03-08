@@ -3,9 +3,6 @@ package exam.reece.addressBook;
 import java.util.Collection;
 import java.util.List;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
 
 import exam.reece.addressBook.dao.exception.DaoException;
 import exam.reece.addressBook.model.AddressBook;

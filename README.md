@@ -19,5 +19,5 @@ Acceptance Criteria
 > A working user interface is not required, nor the use of any frameworks.  
 > We are looking for all acceptance criteria to be demonstrable through tests
 
-This project is for a job application exam.
+ This project is for a job application exam.
 
